@@ -3,4 +3,3 @@ statsmodels
 joblib
 flask
 gunicorn
-pickle
